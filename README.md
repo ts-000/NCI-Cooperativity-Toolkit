@@ -1,2 +1,2 @@
 # NCI-Cooperativity-Toolkit
-This repository contains preliminary workflows to explore noncovalent interactions (NCIs) in protein structures.
+This repository contains preliminary code to explore noncovalent interactions (NCIs) in protein structures.
